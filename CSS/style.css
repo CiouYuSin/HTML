@@ -1,0 +1,36 @@
+h3{
+    background-color: #d3e0ea;
+    color:#276678;
+    padding: 5px;
+  }
+body{
+    background-color:#f6f5f5;
+    font-family: 'Courier New', Courier, monospace;
+    }
+thead{
+    background-color:#1687a7;
+    font-size: 15px;
+    text-align: center;
+}
+tbody{
+    font-size: 12px;
+    text-align: center;
+}
+
+/* 類比 */
+.style1{
+    background-color: #d3e0ea;
+    color:#1687a7;
+    padding: 5px;
+}
+.img-style1{
+    border: #ddd;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+/* ID */
+#main{
+    background-color:#71c9ce ;
+
+}
